@@ -73,10 +73,3 @@ If you'd like to contribute:
 3. Make your changes and commit them.
 4. Submit a pull request.
 
-## Contact
-For any questions or suggestions, feel free to reach out or open an issue in the repository.
-
----
-
-Enjoy encrypting and decrypting with this tool!
-
